@@ -1,0 +1,29 @@
+{
+  "id": "mock-doc-id",
+  "url": null,
+  "type": "publication",
+  "href": null,
+  "tags": [],
+  "first_publication_date": "1970-01-01T00:00:01+0000",
+  "last_publication_date": "1970-01-01T00:00:01+0000",
+  "slugs": [],
+  "linked_documents": [],
+  "lang": "en-us",
+  "alternate_languages": [],
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Cloth",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Sit laborum sunt ad quis esse reprehenderit minim in eiusmod id sit proident esse. Adipisicing ad voluptate tempor exercitation exercitation in sunt sint excepteur quis. Excepteur ad id eiusmod magna eu ipsum amet officia labore elit excepteur nisi ea esse.",
+        "spans": []
+      }
+    ]
+  }
+}
